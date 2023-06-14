@@ -49,7 +49,13 @@ VARIABLES / 4 ESTADOS
   Significa que la variable existe, tiene tipo pero no contenido, saldrá un 0
 
 ESTADO DE LAS VARIABLES
-1) NameError: Ej: Name 'Patata? is not define, significa que antes de realizar cualquier linea de código se deberá definir 
+1) NameError: Ej: Name 'Patata? is not define, significa que antes de realizar cualquier linea de código se deberá definir. Saldrá por ejemplo df not defined
+2) None / Variable = None  / Print(variable)   / Resultado None
+3) Var existe, tiene tipo pero no valor
+4) Var si existe, tiene tipo y tiene contenido
+  Lista = [0]
+  Texto = "Hola" ó " "
+6) 
 
 
 
