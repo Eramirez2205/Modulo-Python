@@ -39,6 +39,20 @@ precio = 3.99
 es_verdadero = True
 Las variables en Python pueden cambiar de tipo y contenido a lo largo de la ejecución del programa, lo que las hace muy flexibles. Sin embargo, es importante tener en cuenta el tipo de una variable al realizar operaciones con ella para evitar errores.
 
+Día 13-06-2023
+VARIABLES / 4 ESTADOS
+1) Namerror:  es una variable y saldría "Is not defined"
+2) None / Var= None : Significa que la variable existe pero está vacía, no tiene ni tipo ni contenido
+3) Todos los tipos de Python tienen su forma de representar su valor vacío
+  Lista []
+  entero 0
+  Significa que la variable existe, tiene tipo pero no contenido, saldrá un 0
+
+ESTADO DE LAS VARIABLES
+1) NameError: Ej: Name 'Patata? is not define, significa que antes de realizar cualquier linea de código se deberá definir 
+
+
+
 
 
 
