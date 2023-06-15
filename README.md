@@ -55,10 +55,20 @@ ESTADO DE LAS VARIABLES
 4) Var si existe, tiene tipo y tiene contenido
   Lista = [0]
   Texto = "Hola" ó " "
-6) 
 
+Día 14-06-
+- Vimos los Bucles
+for variable in 
+if
+elif
+else
 
+- Machine Learning
+Predicción del Bit Coin
 
+- Fibonacci
+- Graficos espaciales
+- 
 
 
 
