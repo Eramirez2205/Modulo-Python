@@ -68,7 +68,12 @@ Predicción del Bit Coin
 
 - Fibonacci
 - Graficos espaciales
-- 
+
+Día 15-06-2023
+
+- Vimos Series 
+- Funciones
+- Joimnquiz
 
 
 
